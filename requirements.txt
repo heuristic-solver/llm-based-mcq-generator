@@ -3,3 +3,7 @@ os
 langchain_google_genai
 streamlit 
 PyPDF2 
+google-generativeai
+filetype
+langchain_core
+python-dotenv
